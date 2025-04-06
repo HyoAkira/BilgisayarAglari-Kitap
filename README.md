@@ -1,7 +1,7 @@
 YAPILACAK DEĞİŞİKLİKLER
 - Mbps ve Mbs gösteriminin farkındalığı için ekstra alan ekleme güzel olabilir. Ayrıca 1 tane paragrafta 10mb/s gibi bir yazı vardı onu anlam doğruluğu için değiştirmek gerekir.
 - Birbiriyle çelişen 2 fotoğraf vardı Cat kabloların hızı ile ilgili bilgi konusunda.
-- netstat ile ilgili yazının olduğu yerde meraklısına ekstra bilgi olması açısından yeni linux dağıtımlarında net-tools paketi artık geliştirilmediğinden dolayı eklenmiyor. iproute2 paketi ile birlikte gelen ss ve ip komutlarını kullanıyoruz. SS paketi netstat'ın karşılığı.
+- netstat ile ilgili yazının olduğu yerde meraklısına ekstra bilgi olması açısından yeni linux dağıtımlarında net-tools paketi artık geliştirilmediğinden dolayı eklenmiyor. iproute2 paketi ile birlikte gelen ss ve ip komutlarını kullanıyoruz. SS paketi netstat'ın karşılığı. https://man.archlinux.org/man/netstat.8.en
 - Ağ çakışma alanları ile ilgili güzel bir video vardı, sorunun altına eklenebilir.
 - telnet ile port kontrolü olduğunu ben çalışırken şans eseri bir başkasından öğrenmiştim, normalde uzak makineye bağlanıp systemctl'den bakıyordum. Belki know-how olması açısından eklenebilir.
    >>> kendim için hatırlatma: router her port yayın alanı, switch her port çakışma alanı, hub bağlı tüm cihazlar tek çakışma alanı.
