@@ -1,7 +1,9 @@
 YAPILACAK DEĞİŞİKLİKLER
 - Mbps ve Mbs gösteriminin farkındalığı için ekstra alan ekleme güzel olabilir. Ayrıca 1 tane paragrafta 10mb/s gibi bir yazı vardı onu anlam doğruluğu için değiştirmek gerekir.
 - Birbiriyle çelişen 2 fotoğraf vardı Cat kabloların hızı ile ilgili bilgi konusunda.
-- netstat ile ilgili yazının olduğu yerde meraklısına ekstra bilgi olması açısından yeni linux dağıtımlarında net-tools paketi artık geliştirilmediğinden dolayı eklenmiyor. iproute2 paketi ile birlikte gelen ss ve ip komutlarını kullanıyoruz. SS paketi netstat'ın karşılığı. 
+- netstat ile ilgili yazının olduğu yerde meraklısına ekstra bilgi olması açısından yeni linux dağıtımlarında net-tools paketi artık geliştirilmediğinden dolayı eklenmiyor. iproute2 paketi ile birlikte gelen ss ve ip komutlarını kullanıyoruz. SS paketi netstat'ın karşılığı.
+- Ağ çakışma alanları ile ilgili güzel bir video vardı, sorunun altına eklenebilir.
+   >>> kendim için hatırlatma: router her port yayın alanı, switch her port çakışma alanı, hub bağlı tüm cihazlar tek çakışma alanı.
 
 # Bilgisayar Ağları Ders Notları
 
