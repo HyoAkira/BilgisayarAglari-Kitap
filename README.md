@@ -1,3 +1,8 @@
+YAPILACAK DEĞİŞİKLİKLER
+- Mbps ve Mbs gösteriminin farkındalığı için ekstra alan ekleme güzel olabilir. Ayrıca 1 tane paragrafta 10mb/s gibi bir yazı vardı onu anlam doğruluğu için değiştirmek gerekir.
+- Birbiriyle çelişen 2 fotoğraf vardı Cat kabloların hızı ile ilgili bilgi konusunda.
+- netstat ile ilgili yazının olduğu yerde meraklısına ekstra bilgi olması açısından yeni linux dağıtımlarında net-tools paketi artık geliştirilmediğinden dolayı eklenmiyor. iproute2 paketi ile birlikte gelen ss ve ip komutlarını kullanıyoruz. SS paketi netstat'ın karşılığı. 
+
 # Bilgisayar Ağları Ders Notları
 
 **DİKKAT:** Henüz düzenleme aşaması devam etmektedir. Çok sayıda eksik ve hatalı kısımlar bulunmaktadır.
